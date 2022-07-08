@@ -12,3 +12,6 @@ I'm getting the hang of HTML syntax and tags.
 VS code is easy to use, i've had some previous experience with this attempting to learn some other languages recently.
 
 Making progress. --- July 7th 2022 ~1pm
+
+
+Starting in on the CSS page today.  ~11:30am July 7th 2022
