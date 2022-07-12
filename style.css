@@ -19,9 +19,15 @@ h1 {
 }
 
 ul {
+    display: flex;
+    flex-direction: column;
     padding: 20px;
     margin: 15px;
     background: aqua;
+    border: 3px solid black;
+    width: 200px;
+    align-items: center;
+    justify-content: space-around;
 }
 
 section {
