@@ -42,3 +42,10 @@ section {
     justify-content: space-around;
     flex-direction: column;
 }
+
+.para {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+}
