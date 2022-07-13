@@ -32,7 +32,6 @@ ul {
     background: yellow;
     border: 3px solid black;
     width: 200px;
-    align-items: center;
     justify-content: space-around;
 }
 
@@ -48,4 +47,14 @@ section {
     align-items: center;
     justify-content: space-around;
     width: 500px;
+}
+
+.media {
+    display: flex;
+}
+
+.image img {
+    max-width: 250px;
+    flex: 1;
+    padding: 15px;
 }
