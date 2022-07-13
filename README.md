@@ -21,3 +21,7 @@ Starting into "Foundations: Block and Inline" (51% completion) on the odin proje
 This might be a bit redundant from all the reading I did already but i'll power 
 through it regardless just to be sure it's starting to sink in.
 The day is now, July 13th ~10am
+
+
+Currently at 59% completion, i'm about to start the 5th step in the assignments on
+"Foundations: alignment" --- going to take a break.  ~2;15 pm July 13th 2022
