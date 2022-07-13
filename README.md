@@ -15,3 +15,9 @@ Making progress. --- July 7th 2022 ~1pm
 
 
 Starting in on the CSS page today.  ~11:30am July 7th 2022
+
+Made so decent progress, cleaned up my syles.css, learned a lot about it yesterday.
+Starting into "Foundations: Block and Inline" (51% completion) on the odin project.
+This might be a bit redundant from all the reading I did already but i'll power 
+through it regardless just to be sure it's starting to sink in.
+The day is now, July 13th ~10am
