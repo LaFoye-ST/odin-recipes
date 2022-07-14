@@ -24,4 +24,6 @@ The day is now, July 13th ~10am
 
 
 Currently at 59% completion, i'm about to start the 5th step in the assignments on
-"Foundations: alignment" --- going to take a break.  ~2;15 pm July 13th 2022
+"Foundations: alignment" (flexbox)--- going to take a break.  ~2;15 pm July 13th 2022
+
+Finished excercisses 01-06 on flexbox (odin project) -- ~3pm July 14th 2022
