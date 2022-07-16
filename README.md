@@ -27,3 +27,7 @@ Currently at 59% completion, i'm about to start the 5th step in the assignments 
 "Foundations: alignment" (flexbox)--- going to take a break.  ~2;15 pm July 13th 2022
 
 Finished excercisses 01-06 on flexbox (odin project) -- ~3pm July 14th 2022
+
+So i've made it to 61% of the Foundations section, working on the landing page.
+Made some decent progress, getting a bit stuck need a break.
+July 16th ~6:15pm
