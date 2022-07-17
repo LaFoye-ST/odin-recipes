@@ -31,3 +31,5 @@ Finished excercisses 01-06 on flexbox (odin project) -- ~3pm July 14th 2022
 So i've made it to 61% of the Foundations section, working on the landing page.
 Made some decent progress, getting a bit stuck need a break.
 July 16th ~6:15pm
+
+coppying this into the odin-lead-landing-page ,, see you there.
